@@ -25,7 +25,6 @@ The application allows users to select an encryption algorithm, enter text, gene
 * Visual Studio Code
 
 ## Algorithms Used
-
 ### AES
 AES is a symmetric-key encryption algorithm that uses the same secret key for encryption and decryption.
 ### DES
